@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="hello.HelloWorldControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-08-08T11:36:04" hostname="27b67ee8-f0b5-4361-6dcd-00c8c3c65c17" time="0.058">
+<testsuite name="hello.HelloWorldControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-08-08T12:12:25" hostname="41271c88-b7dd-4075-769e-9ee3a8b355b8" time="0.043">
   <properties/>
-  <testcase name="testIndexPageContent" classname="hello.HelloWorldControllerTest" time="0.058"/>
+  <testcase name="testIndexPageContent" classname="hello.HelloWorldControllerTest" time="0.043"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
