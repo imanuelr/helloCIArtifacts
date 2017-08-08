@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.HelloWorldControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-08-08T10:31:06" hostname="f7e2bf0e-971f-4394-512d-5bf9cdfe0994" time="0.09">
+  <properties/>
+  <testcase name="testIndexPageContent" classname="hello.HelloWorldControllerTest" time="0.09"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
